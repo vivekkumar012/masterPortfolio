@@ -472,23 +472,23 @@ const experience = {
     "I have worked with startups as Software Developer, Designer and Software Architect. I have also participated in many hackathons. I love to building innovative solutions that create impact.",
   header_image_path: "experience.svg",
   sections: [
-    {
-      title: "Work",
-      work: true,
-      experiences: [
-        {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
-          description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
-          color: "#000000",
-        },
-      ],
-    },
+    // {
+    //   title: "Work",
+    //   work: true,
+    //   experiences: [
+    //     {
+    //       title: "Machine Learning Engineer",
+    //       company: "TikTok Inc.",
+    //       company_url: "https://www.tiktok.com/en/",
+    //       logo_path: "tiktok_logo.png",
+    //       duration: "June 2023 - Present",
+    //       location: "San Jose, CA, USA",
+    //       description:
+    //         "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+    //       color: "#000000",
+    //     },
+    //   ],
+    // },
     {
       title: "Internships",
       experiences: [
